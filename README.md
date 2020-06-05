@@ -55,7 +55,7 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-## Conclusions of the analysis of the data for Heroes of Pymoli:
+## Conclusions of the data analysis for Heroes of Pymoli:
 ### Player count and purchasing:
 The data set contains 576 unique players making up for 780 purchases.
 
