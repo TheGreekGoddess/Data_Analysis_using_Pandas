@@ -55,20 +55,20 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-### Conclusions of the analysis of the data for Heroes of Pymoli:
-# Player count and purchasing:
+## Conclusions of the analysis of the data for Heroes of Pymoli:
+### Player count and purchasing:
 The data set contains 576 unique players making up for 780 purchases.
 
-# Gender demographics:
+### Gender demographics:
 Male players make up for 84% of the purchases, while female players make up for 14%.
 Female players have the highest average total purchase by a player. Notably, all genders spend an average of $4 and above.
 
-# Age demographics:
+### Age demographics:
 Almost 45% of the players belong to the 20-24 age range and their total purchase value makes up for $1,114.06 of the overall revenue of $2379.77
 The average total purchase by a player is highest amongst the 35-39 age range.
 
-# Top spender:
+### Top spender:
 Lisosia93 is the top spender with a total purchase count of 5 items adding to a total purchase value of $18.96
 
-# Most popular and profitable items:
+### Most popular and profitable items:
 Oathbreaker, Last Hope of the Breaking Storm (Item ID 178), Fiery Glass Crusader (Item ID 145), and Nirvana (Item ID 82), all three appear in both the top five popular and profitable item rankings.
