@@ -1,11 +1,9 @@
 Heroes of Pymoli
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
 Your final report should include each of the following:
-
 ### Player Count
 * Total Number of Players
 
@@ -57,9 +55,20 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-As final considerations:
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-* You must include a written description of three observable trends based on the data.
+### Conclusions of the analysis of the data for Heroes of Pymoli:
+# Player count and purchasing:
+The data set contains 576 unique players making up for 780 purchases.
 
-Good luck!
+# Gender demographics:
+Male players make up for 84% of the purchases, while female players make up for 14%.
+Female players have the highest average total purchase by a player. Notably, all genders spend an average of $4 and above.
+
+# Age demographics:
+Almost 45% of the players belong to the 20-24 age range and their total purchase value makes up for $1,114.06 of the overall revenue of $2379.77
+The average total purchase by a player is highest amongst the 35-39 age range.
+
+# Top spender:
+Lisosia93 is the top spender with a total purchase count of 5 items adding to a total purchase value of $18.96
+
+# Most popular and profitable items:
+Oathbreaker, Last Hope of the Breaking Storm (Item ID 178), Fiery Glass Crusader (Item ID 145), and Nirvana (Item ID 82), all three appear in both the top five popular and profitable item rankings.
